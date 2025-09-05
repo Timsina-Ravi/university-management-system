@@ -23,15 +23,17 @@ Designed as a learning portfolio project, showcasing clean architecture and REST
 - Maven  
 
 
-
  Database Setup
-Create a MySQL database (e.g., `university_db`) and update `application.properties`:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/university_db
-spring.datasource.username=root
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+- Create a MySQL database (e.g., `university_db`) and update `application.properties`:
+
+- spring.datasource.url=jdbc:mysql://localhost:3306/university_db
+- spring.datasource.username=root
+- spring.datasource.password=your_password
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.show-sql=true
+
+
 
 
 Running the Project
