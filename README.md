@@ -25,7 +25,6 @@ Designed as a learning portfolio project, showcasing clean architecture and REST
 
 
  Database Setup
- 
 Create a MySQL database (e.g., `university_db`) and update `application.properties`:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/university_db
@@ -34,12 +33,12 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
-Running the Project
 
+Running the Project
 - Open in your IDE (IntelliJ/Eclipse)
 - Make sure MySQL is running and database exists
 
-Run the application:
 
+Run the application:
 - mvn spring-boot:run
 - Test APIs with Postman or Swagger
