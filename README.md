@@ -25,6 +25,7 @@ Designed as a learning portfolio project, showcasing clean architecture and REST
 
 
  Database Setup
+ 
 Create a MySQL database (e.g., `university_db`) and update `application.properties`:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/university_db
