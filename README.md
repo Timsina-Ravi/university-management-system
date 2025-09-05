@@ -1,6 +1,5 @@
  University Management System
 
- Overview
 A Spring Boot REST API project implementing a basic University Management System.  
 This project demonstrates CRUD operations for core university entities using Spring Data JPA and MySQL.  
 
